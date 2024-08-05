@@ -1,0 +1,37 @@
+_repo: Svante-Horn-ja-Lindbom-b-Kertomus_74017
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Starbäck, C. Georg (Carl Georg)
+    aliases:
+    - Starbäck, Carl Georg
+    - Carl Georg Starbäck
+    - Starbäck, Georg
+    - Starback, C. Georg (Carl Georg)
+    birthdate: 1828
+    deathdate: 1885
+    gutenberg_agent_id: '45593'
+    url: http://www.gutenberg.org/2009/agents/45593
+    wikipedia:
+    - https://sv.wikipedia.org/wiki/Georg_Starb%C3%A4ck
+    - https://fi.wikipedia.org/wiki/Carl_Georg_Starb%C3%A4ck
+description: ''
+gutenberg_issued: '2024-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74017'
+language: fi
+pgterms:marc905: 20171009043421starbck
+pgterms:marc906: '1892'
+pgterms:marc907: fI
+production_note: Tapio Riikonen
+publication_note: $aJyväskylässä :$bJyväskylän Kirjapaino, $c1892.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: 'Svante Horn ja Lindbom : $b Kertomus'
+url: http://www.gutenberg.org/ebooks/74017
