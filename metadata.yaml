@@ -1,5 +1,8 @@
 _repo: Svante-Horn-ja-Lindbom-b-Kertomus_74017
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Starbäck, C. Georg (Carl Georg)
@@ -16,6 +19,8 @@ creator:
     - https://sv.wikipedia.org/wiki/Georg_Starb%C3%A4ck
     - https://fi.wikipedia.org/wiki/Carl_Georg_Starb%C3%A4ck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74017#Svante-Horn-ja-Lindbom-b-Kertomus
 gutenberg_issued: '2024-07-11'
 gutenberg_type: Text
 identifiers:
